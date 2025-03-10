@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MVeolvAmsA0=",
+  "dgSpecHash": "ZiV8+l1ZWbM=",
   "success": true,
   "projectFilePath": "C:\\Users\\welly.imnl\\source\\isaku\\CORE NET 9\\testing-kubernetes\\testing-kubernetes\\testing-kubernetes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\welly.imnl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
-    "C:\\Users\\welly.imnl\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\welly.imnl\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\welly.imnl\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\welly.imnl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.3.1\\swashbuckle.aspnetcore.swagger.7.3.1.nupkg.sha512",
+    "C:\\Users\\welly.imnl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.3.1\\swashbuckle.aspnetcore.swaggergen.7.3.1.nupkg.sha512",
+    "C:\\Users\\welly.imnl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.3.1\\swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512"
   ],
   "logs": []
 }

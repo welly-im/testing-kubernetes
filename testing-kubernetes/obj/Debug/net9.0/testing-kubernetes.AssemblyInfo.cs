@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("e8ac73cc-3dd2-4d6e-9dec-de4188c7cdd3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("testing-kubernetes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5212a04403418b903585a824eb0f695ddfca159c")]
 [assembly: System.Reflection.AssemblyProductAttribute("testing-kubernetes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testing-kubernetes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -32,3 +32,7 @@ C:\Users\welly.imnl\source\isaku\CORE NET 9\testing-kubernetes\testing-kubernete
 C:\Users\welly.imnl\source\isaku\CORE NET 9\testing-kubernetes\testing-kubernetes\obj\Debug\net9.0\testing-kubernetes.pdb
 C:\Users\welly.imnl\source\isaku\CORE NET 9\testing-kubernetes\testing-kubernetes\obj\Debug\net9.0\testing-kubernetes.genruntimeconfig.cache
 C:\Users\welly.imnl\source\isaku\CORE NET 9\testing-kubernetes\testing-kubernetes\obj\Debug\net9.0\ref\testing-kubernetes.dll
+C:\Users\welly.imnl\source\isaku\CORE NET 9\testing-kubernetes\testing-kubernetes\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\welly.imnl\source\isaku\CORE NET 9\testing-kubernetes\testing-kubernetes\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\welly.imnl\source\isaku\CORE NET 9\testing-kubernetes\testing-kubernetes\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\welly.imnl\source\isaku\CORE NET 9\testing-kubernetes\testing-kubernetes\obj\Debug\net9.0\testing-kubernetes.sourcelink.json
