@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "B5PX1fQpHq+jJLsGjuETzHdLQnp4IW1bCIpKKs0wpcY=",
+  "Source": "testing-kubernetes",
+  "BasePath": "_content/testing-kubernetes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

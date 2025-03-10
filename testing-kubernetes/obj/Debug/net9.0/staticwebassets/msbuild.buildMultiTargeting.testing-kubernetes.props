@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\testing-kubernetes.props" />
+</Project>
